@@ -17,3 +17,12 @@ We use camera calibration app to find a focal length of the camera
 6) We can also apply threshold to get minimum reprojection error and we can visualize from which angle we have taken the images .
 
 7) We change distorted image into undistorted image by removing lens distortion to get optimal result .
+
+8) When you are satisfied with calibration accuracy u can directly Export Camera Parameters or Export Matlab Script.
+
+9) After finding the focal length, move your camera both closer and farther away from the object. Then apply the triangle similarity to    determine the distance of the object to the camera i.e      
+	D = (W*F)/P  
+	W = object width    
+	F = focal length    
+	P =  apparent width in pixels
+
