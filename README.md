@@ -26,3 +26,8 @@ We use camera calibration app to find a focal length of the camera
 	F = focal length    
 	P =  apparent width in pixels
 
+### output
+
+<div align="center" style='width:100px;'>
+    <img src='assets/Calibrated.png'>
+</div>
