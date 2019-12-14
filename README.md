@@ -29,5 +29,5 @@ We use camera calibration app to find a focal length of the camera
 ### output
 
 <div align="center" style='width:100px;'>
-    <img src='assets/Calibrated.png'>
+    <img src='Calibrated.png'>
 </div>
